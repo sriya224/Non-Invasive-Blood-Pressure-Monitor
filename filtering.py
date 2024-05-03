@@ -1,3 +1,5 @@
+# This script is for filtering the raw data and segmenting into individual waveforms 
+
 # Importing packages and libraries 
 import numpy as np 
 import pandas as pd 
